@@ -1,5 +1,5 @@
-- 👋 Hi, 
-- I’m Rohith R, a Full Stack Software Developer with hands-on experience in NodeJs, React, Java and Azure. 
+👋 Hi, 
+I’m Rohith R, a Full Stack Software Developer with hands-on experience in NodeJs, React, Java and Azure. 
 
 <!---
 rrohith-git/rrohith-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
